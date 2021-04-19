@@ -1,0 +1,4 @@
+- 👋 Hi, I’m M. A. Alim Mukul
+- 💞️ I’m a student of Digital Media, MSc at the "University of Bremen, Germany".
+- 👀 I’m interested in Travelling, adventure, Keto diet and browing on the web.
+- 🌱 I’m currently learning MERN Full-stack development & Data Science.
